@@ -14,7 +14,7 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.graduate = ["Software Engineer", "Systems Analyst", "Information Systems"]
         self.mba = ["Eletrical and Automation Engineer", "Security Information"]
-        self.masterdegree = "Eletrical and Telecomunication Engineer"
+        self.masterdegree = "Electrical and Telecommunication Engineer"
         self.language_spoken = ["Pt_BR", "en_US"]
 
     def say_hello(self):
