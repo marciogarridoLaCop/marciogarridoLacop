@@ -15,7 +15,7 @@ class SoftwareEngineer:
         self.graduate = ["Software Engineer", "Systems Analyst", "Information Systems"]
         self.mba = ["Eletrical and Automation Engineer", "Security Information"]
         self.masterdegree = "Electrical and Telecommunication Engineer"
-        self.language_spoken = ["Pt_BR", "en_US"]
+        self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hello(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
