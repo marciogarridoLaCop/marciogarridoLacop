@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Marcio Garrido!](https://github.com/marciogarridoLaCop)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/marcio-garrido-654b9024/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/marciogarridoLaCop)
-
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ```python
 #!/usr/bin/python
