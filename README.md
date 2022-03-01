@@ -41,6 +41,7 @@ me.say_hello()
 ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogarridolacop&layout=compact&count_private=true&theme=gruvbox" />
 <!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/marciogarridoLaCop">
@@ -50,7 +51,6 @@ me.say_hello()
 <a href="https://github.com/marciogarridoLaCop">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marciogarridoLaCop&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Marcio Garrido's GitHub Stats" />
 </a> -->
-
 
 ## 🗂️ Highlight Projects
 
