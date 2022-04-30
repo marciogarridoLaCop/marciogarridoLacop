@@ -56,7 +56,7 @@ me.say_hello()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marciogarridoLaCop&repo=matlab&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="matlab" />
 </a>
 
-<a href="https://github.com/marciogarridoLaCop/arduino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marciogarridoLaCop&repo=arduino&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="arduino" />
+<a href="https://github.com/marciogarridoLaCop/Arduino_FSO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marciogarridoLaCop&repo=arduino&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Arduino" />
 </a>
 
