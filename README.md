@@ -67,6 +67,6 @@ me.say_hello()
 </a>
 
 <a href="https://github.com/marciogarridoLaCop/LaTeX-OCR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marciogarridoLaCop&repo=LaTeX-OCR &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="LaTeX-OCR APP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marciogarridoLaCop&repo=LaTeX-OCR&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="LaTeX-OCR APP" />
 </a>
 
