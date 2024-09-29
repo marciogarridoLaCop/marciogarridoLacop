@@ -62,8 +62,8 @@ me.say_hello()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/marciogarridoLaCop/matlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marciogarridoLaCop&repo=matlab&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="matlab" />
+<a href="https://github.com/marciogarridoLaCop/SmartStation2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marciogarridoLaCop&repo=SmartStation2.0&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SmartStation" />
 </a>
 
 <a href="https://github.com/marciogarridoLaCop/Arduino_FSO">
