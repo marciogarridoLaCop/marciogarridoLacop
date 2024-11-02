@@ -3,16 +3,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/marciogarridoLaCop)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-```python
+```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Marcio Garrido"
-        self.role = "Software Engineer"
-        self.graduate = ["Software Engineer", "Systems Analyst", "Information Systems"]
+        self.role = "Software Engineer Professor"
+        self.graduate = ["Software Engineer", "Health and Safety Engineer", "Systems Analyst", "Information Systems"]
         self.mba = ["Eletrical and Automation Engineer", "Security Information"]
         self.masterdegree = "Electrical and Telecommunication Engineer"
         self.phdstudent = "Electrical and Telecommunication Engineer"
@@ -21,9 +20,19 @@ class SoftwareEngineer:
     def say_hello(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
+    def display_profile(self):
+        print(f"My name is : {self.name}")
+        print(f"Role: {self.role}")
+        print(f"Graduate Degrees: {', '.join(self.graduate)}")
+        print(f"MBA: {', '.join(self.mba)}")
+        print(f"Master's Degree: {self.masterdegree}")
+        print(f"PhD Student: {self.phdstudent}")
+        print(f"Languages Spoken: {', '.join(self.language_spoken)}")
+
 
 me = SoftwareEngineer()
 me.say_hello()
+me.display_profile()
 ```
 
 ## Tools
